@@ -1,0 +1,31 @@
+# Arquivos de desenvolvimento
+node_modules/
+.git/
+.gitignore
+*.log
+.DS_Store
+Thumbs.db
+
+# Arquivos desnecessários para produção
+README.md
+server.js
+ANALISE-PROBLEMA.md
+STATUS-CORRECOES.md
+GUIA-USO.md
+INICIAR-PROJETO.bat
+
+# Arquivos de backup
+*.bak
+*.tmp
+*.swp
+*.swo
+
+# Arquivos de IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+desktop.ini

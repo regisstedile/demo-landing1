@@ -1,0 +1,29 @@
+{
+  "name": "demo-landing1",
+  "version": "1.0.0",
+  "description": "Template completo de landing page baseado no Canvas Template",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "landing-page",
+    "template",
+    "canvas",
+    "html",
+    "css",
+    "javascript",
+    "responsive"
+  ],
+  "author": "Regis Stedile",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/regisstedile/demo-landing1.git"
+  },
+  "homepage": "https://github.com/regisstedile/demo-landing1#readme"
+}
